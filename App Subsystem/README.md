@@ -12,6 +12,8 @@ Install Android Studio or VS Code with the Flutter extension.
 
 Ensure you have a physical device or emulator ready.
 
+Create Supabase account to prepare SQL schema
+
 ### 2. Installation
 Clone the repository:
 
@@ -31,6 +33,12 @@ Launch the app on your connected device using:
 
 Bash
 flutter run
+
+### 4. Prepping Database
+
+Copy database_schema.sql commands to the table editor in Supabase
+
+Note: Be sure to enable realtime updates for the tables
 
 ## Features
 
