@@ -1,5 +1,5 @@
 # 🧳 Luggage Carrier and Tracker
-ECEN 404 - Senior Design 2026
+ECEN 404 - Senior Design 2025 - 2026
 
 A smart luggage-carrying rover that automatically follows its owner, avoids obstacles, and provides real-time tracking to relieve user fatigue and improve mobility.
 
