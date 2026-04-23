@@ -15,16 +15,16 @@ App Subsystem: Flutter-based mobile application for user interface, luggage cont
 
 Navigation Subsystem: Core logic for path planning and motor control.
 
-Obstacle Avoidance Subsystem: Sensor integration (LiDAR/Ultrasonic) to ensure safe travel.
+Obstacle Avoidance Subsystem: Sensor integration (Ultrasonic) to ensure safe travel.
 
 Tracking Subsystem: UWB or GPS-based logic for "follow-me" functionality.
 
 ## 💻 Tech Stack
-Languages: Dart (Flutter), Python, C++
+Languages: Dart (Flutter) and Python
 
 Cloud/Backend: Supabase (Database & Authentication)
 
-Hardware: [List your microcontroller here, e.g., ESP32 / Raspberry Pi]
+Hardware: Raspberry PI
 
 ## 👥 The Team
 @shantastiles-cpu
