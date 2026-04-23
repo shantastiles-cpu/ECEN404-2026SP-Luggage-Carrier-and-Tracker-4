@@ -24,5 +24,4 @@ To solve this, our navigation core implements **Real-Time Gain Scheduling**. By 
 
 * **Compute:** Raspberry Pi 5 (Running Python 3)
 * **Motor Driver:** Sabertooth 25x2 Dual Motor Controller (Serial at 115200 baud)
-* **Payload Sensor:** 10kg Load Cell + HX711 Amplifier (GPIO)
 * **Telemetry Input:** X/Y tracking coordinates provided by a secondary UWB localization script.
