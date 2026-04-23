@@ -42,20 +42,20 @@ This file is located in the home section of the repository and connects these sa
 ## Features
 
 Obstacle detection using ultrasonic sensors
+
 Perf board powered sensor array
+
 Load cell luggage weight measurement
+
 Terminal-based weight reading output
+
 Integrated obstacle avoidance logic
+
 Integrated luggage removal safety stop
+
 Buck converter PCB design for Pi power
+
 Combined operation in rover navigation code
 
-## Tech Stack
-
-Python
-Raspberry Pi
-Ultrasonic sensors
-Load cell
-HX711 amplifier
 Perf board power distribution
 Buck converter PCB design
