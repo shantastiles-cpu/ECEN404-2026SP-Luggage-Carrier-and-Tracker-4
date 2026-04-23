@@ -1,16 +1,25 @@
-# ecen403_flutter_application
+# Rover Navigation App
 
-A new Flutter project.
+A Flutter-based rover companion app for live navigation, pairing, telemetry monitoring, and validation testing. This app connects to rover data streams, displays positioning and health information, supports manual and autonomous interaction workflows, and exports validation logs for latency and navigation analysis.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Rover pairing and reconnection workflow
+- Live UWB navigation display
+- GPS/map view for rover and user positioning
+- Rover telemetry and system health monitoring
+- Manual and autonomous mode support
+- Realtime Supabase data updates
+- Validation testing tools for:
+  - UWB and navigation pipeline latency
+  - App event logging
+  - CSV export for offline analysis
+- Visual UI cards for rover state, pairing, and diagnostics
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter**
+- **Dart**
+- **Supabase**
+- **Realtime data subscriptions**
+- **CSV export for validation logs**
