@@ -649,7 +649,7 @@ late final List<_TutorialStep> _tutorialSteps = [
     body:
         'You can restart this tutorial from the Settings tab any time.\n\n'
         'Stay within 6 ft for safe follow, watch the map for your route, and let Luggage Rover do the heavy lifting.',
-    tabIndex: 1, // or wherever you want to leave them
+    tabIndex: 0, // or wherever you want to leave them
   ),
 ];
 
